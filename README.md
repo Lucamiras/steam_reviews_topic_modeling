@@ -34,6 +34,8 @@ We ended up with a decent number of clusters with interpretable word combination
 
 Using plotly, we visualized the data of the first nine clusters. 
 ![alt text](./topic_clusters.png "Topic Clusters")
+
+And the same data as wordclouds.
 ![alt text](./topic_wordclouds.png "Topic word clouds")
 
 We can clearly identify some recurring topics, which may prompt us to further finetune our model.
@@ -44,6 +46,8 @@ So far, some of the main issues people seem to have are:
 3. A mundane narrative and uninteresting main story (2)
 4. Too many immersion-breaking cutscenes and loading screens (3)
 5. Value for money - they feel the game was overhyped and underdelivered (5, 6)
+
+Finally, I want to add that the game has received hundreds of thousands of positive reviews as well. We're focusing on the negative here to simulate a business case where we are helping the development team understand what **isn't** working.
 
 # Sources
 - Top2Vec documentation: https://top2vec.readthedocs.io/en/stable/Top2Vec.html
