@@ -41,11 +41,11 @@ And the same data as wordclouds.
 We can clearly identify some recurring topics, which may prompt us to further finetune our model.
 
 So far, some of the main issues people seem to have are:
-1. Freezes, glitches and bugs with corrupted save files (0, 4)
-2. Performance issues and hardware hunger (1, 7)
-3. A mundane narrative and uninteresting main story (2)
-4. Too many immersion-breaking cutscenes and loading screens (3)
-5. Value for money - they feel the game was overhyped and underdelivered (5, 6)
+1. **Freezes, glitches and bugs** with corrupted save files (0, 4)
+2. **Performance issues** and hardware hunger (1, 7)
+3. A **mundane narrative** and uninteresting main story (2)
+4. Too many immersion-breaking **cutscenes** and **loading screens** (3)
+5. **Value for money** - they feel the game was overhyped and underdelivered (5, 6)
 
 Finally, I want to add that the game has received hundreds of thousands of positive reviews as well. We're focusing on the negative here to simulate a business case where we are helping the development team understand what **isn't** working.
 
